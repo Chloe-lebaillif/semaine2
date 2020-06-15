@@ -1,0 +1,26 @@
+h1 { 
+    color: red;
+    text-decoration: underline;
+}
+
+.p1 { 
+    font-style: italic;
+    width: 900px;
+    text-indent: 40px;
+}
+
+.encadre {
+    border: 2px solid blue;
+}
+
+.p2 { 
+    margin: 100px;
+}
+
+.p3 { 
+    background-color: green;
+    color: white;
+    padding: 50px;
+    font-size: 2em;
+    font-weight: bold;
+}
